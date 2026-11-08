@@ -1,0 +1,2212 @@
+{
+  "targetLUFS": -18,
+  "PCMTruePeakCeilingDBTP": -2.8,
+  "recordings": [
+    {
+      "reader": "alnufais",
+      "id": 1,
+      "originalUrl": "audio/alnufais/01.mp3",
+      "url": "audio/alnufais-balanced/01.mp3",
+      "previousSha256": "09997d4628b0e997b90734f81cae6e002985b63e09b8bb6d113a3713d3d8825d",
+      "sha256": "e5cff98734f1fea1f54a48932a10e50d9c7b0c73a4c292df8ea2c46111dcb961",
+      "bytes": 768251,
+      "duration": 63.942743764172334,
+      "sampleCount": 2819875,
+      "beforeLUFS": -10.16,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.06,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999550005723447,
+        0.9998656109655255,
+        0.9999169012946889,
+        0.9999577795542889
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 2,
+      "originalUrl": "audio/alnufais/02.mp3",
+      "url": "audio/alnufais-balanced/02.mp3",
+      "previousSha256": "7ad60691b2a1e49f2d76d820c8d8088cf4921748a9214470b2d771d73f7e8910",
+      "sha256": "91ac04881de581572aa29880bda77777dc1e936f56e276e0cf650de80dbffc2c",
+      "bytes": 1456316,
+      "duration": 121.26285714285714,
+      "sampleCount": 5347692,
+      "beforeLUFS": -8.56,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.6,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999202196383206,
+        0.9999682562716863,
+        0.9998286055389175,
+        0.9999315605960198
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 3,
+      "originalUrl": "audio/alnufais/03.mp3",
+      "url": "audio/alnufais-balanced/03.mp3",
+      "previousSha256": "dbb48adaf1d37b0f0b70043d2798eb9a035856681aed42e618c09456d7eb4e64",
+      "sha256": "7d8b8977e66bc483020612f7e5d67c1fc23dd87ea63fe73b45bc2019cec55238",
+      "bytes": 444437,
+      "duration": 36.941043083900226,
+      "sampleCount": 1629100,
+      "beforeLUFS": -8.5,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.4,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999295504929901,
+        0.999982965133872,
+        0.9999288565725997,
+        0.999915430043355
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 4,
+      "originalUrl": "audio/alnufais/04.mp3",
+      "url": "audio/alnufais-balanced/04.mp3",
+      "previousSha256": "36992add85db133343d1c9b229eca9d09911ef7563c362509d7dcf32138d596c",
+      "sha256": "9c17a25dc6476db2660edf48855e785a5c8759b95deb7223695dd364b1fb7a6d",
+      "bytes": 942540,
+      "duration": 78.46893424036281,
+      "sampleCount": 3460480,
+      "beforeLUFS": -9.18,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.53,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999519640493777,
+        0.9999807231095179,
+        0.9999366045616902,
+        0.9999323969242054
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 5,
+      "originalUrl": "audio/alnufais/05.mp3",
+      "url": "audio/alnufais-balanced/05.mp3",
+      "previousSha256": "5fa367fa93684a6cf358755c0886c381665211170e285e4d868298557cced933",
+      "sha256": "fd921a8efe5c420ab6fd036225025b78572e765a9304e290057bb56d3a4c816f",
+      "bytes": 374220,
+      "duration": 31.10419501133787,
+      "sampleCount": 1371695,
+      "beforeLUFS": -9.55,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.59,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999007689613186,
+        0.9998515621261724,
+        0.9999417597217931,
+        0.9999702918730131
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 6,
+      "originalUrl": "audio/alnufais/06.mp3",
+      "url": "audio/alnufais-balanced/06.mp3",
+      "previousSha256": "8ed614017a86cdaa91f8c1a98a6059ba9b8a430fa602b0532b9dd256f8e764f6",
+      "sha256": "38d19d8301bb650bbb036afa1351a954d10372f34f82bd7861cd85bf2ed27d00",
+      "bytes": 788940,
+      "duration": 65.65333333333334,
+      "sampleCount": 2895312,
+      "beforeLUFS": -9.19,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.57,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999749861619116,
+        0.9999902472660417,
+        0.9998805515624818,
+        0.9999261432371072
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 7,
+      "originalUrl": "audio/alnufais/07.mp3",
+      "url": "audio/alnufais-balanced/07.mp3",
+      "previousSha256": "6df210867d3ff768159ecb3b85b03211f12a4a252bf23cb1d078ef7e651ac52a",
+      "sha256": "11eee1e831a4cc5ba2112299194c5a047c1f5999017b018187874661307942f2",
+      "bytes": 347575,
+      "duration": 28.868299319727893,
+      "sampleCount": 1273092,
+      "beforeLUFS": -10.21,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.46,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.999912020274899,
+        0.9999488004037342,
+        0.9999555129306075,
+        0.999981548073383
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 8,
+      "originalUrl": "audio/alnufais/08.mp3",
+      "url": "audio/alnufais-balanced/08.mp3",
+      "previousSha256": "8d0e9e5ed70152c374086c4963e7cc3edb519e2bd68c78f4252badf46e0dbfd6",
+      "sha256": "a72c6a6962890af2e0ac57ed0e8110b73831d7def6ea49c4f3142c883cfeb547",
+      "bytes": 430331,
+      "duration": 35.775827664399095,
+      "sampleCount": 1577714,
+      "beforeLUFS": -9.91,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.24,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999366942748414,
+        0.9999642831783109,
+        0.9999519441618355,
+        0.9999870743358624
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 9,
+      "originalUrl": "audio/alnufais/09.mp3",
+      "url": "audio/alnufais-balanced/09.mp3",
+      "previousSha256": "1ef3247e0ea5f659674e121cd95544547e115008029cf1c2461e6ce14c5f13be",
+      "sha256": "5386583379afe7051078ef6331a5dadff80b1b1c9bf29e64fe45d7e5bf84389e",
+      "bytes": 451333,
+      "duration": 37.51598639455782,
+      "sampleCount": 1654455,
+      "beforeLUFS": -9.9,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.65,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999326248969405,
+        0.9998401088451,
+        0.9999690361557275,
+        0.9999599457528744
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 10,
+      "originalUrl": "audio/alnufais/10.mp3",
+      "url": "audio/alnufais-balanced/10.mp3",
+      "previousSha256": "84a300f4acb373c26154065c6b6a42a549ea29dd7830a630b3aaa32ed128eb65",
+      "sha256": "d02752faa618dd4d0cd86a46d2b4205050729073b96f43612e5dd0ff53992984",
+      "bytes": 852260,
+      "duration": 70.93129251700681,
+      "sampleCount": 3128070,
+      "beforeLUFS": -9.84,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.18,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9998619053820413,
+        0.9999846249868107,
+        0.9998524602502618,
+        0.9998840339419027
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 11,
+      "originalUrl": "audio/alnufais/11.mp3",
+      "url": "audio/alnufais-balanced/11.mp3",
+      "previousSha256": "4624f752f540f5c6ced9c0fbf3678ee87250b9fdfff091aeef0416a5a12680f3",
+      "sha256": "c88c5a2b71dcf75f5816aee704baae1c4fecb0f036acc23388cea18018221149",
+      "bytes": 411836,
+      "duration": 34.22263038548753,
+      "sampleCount": 1509218,
+      "beforeLUFS": -11.42,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.34,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9998652343047739,
+        0.9999668088878757,
+        0.9999046013522165,
+        0.9998463272300081
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 12,
+      "originalUrl": "audio/alnufais/12.mp3",
+      "url": "audio/alnufais-balanced/12.mp3",
+      "previousSha256": "eeb0345e177f2c3b901fb3bcfabb778119d786af7754b9b2127864bc7539a1f3",
+      "sha256": "409aeb44bd2c761c0e5c650a57167173bb91253cf366e7e35c0791773f269e3b",
+      "bytes": 284254,
+      "duration": 23.614421768707484,
+      "sampleCount": 1041396,
+      "beforeLUFS": -10.99,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -3.89,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9996077375499801,
+        0.999941569739892,
+        0.9999608264580404,
+        0.9999871493013642
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 13,
+      "originalUrl": "audio/alnufais/13.mp3",
+      "url": "audio/alnufais-balanced/13.mp3",
+      "previousSha256": "0a9d04997f2978a4788926ee2134ad7611f66bd398f2ceffdab94f2d87cbbca7",
+      "sha256": "095639e053bc2a84cfcb04e275fa7383a095140bcf8fd8f33e9263fd1671d92d",
+      "bytes": 348829,
+      "duration": 28.98718820861678,
+      "sampleCount": 1278335,
+      "beforeLUFS": -10.24,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -3.97,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9998299383246284,
+        0.9999712218447748,
+        0.9999127569874146,
+        0.9999260650853485
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 14,
+      "originalUrl": "audio/alnufais/14.mp3",
+      "url": "audio/alnufais-balanced/14.mp3",
+      "previousSha256": "39e27e3923d36f025a74bd1c43e70889729f29c5f785d5505f1a484a75356fb9",
+      "sha256": "bae020b9d5aadd7d3c49295ebfe3352097cc82891f0f769a2c4a56c020ff14e4",
+      "bytes": 363875,
+      "duration": 30.226938775510202,
+      "sampleCount": 1333008,
+      "beforeLUFS": -11.06,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -3.55,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999454958637026,
+        0.9999181948004473,
+        0.9956555883599235,
+        0.999960291609171
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 15,
+      "originalUrl": "audio/alnufais/15.mp3",
+      "url": "audio/alnufais-balanced/15.mp3",
+      "previousSha256": "bb4e4bed8c93a9ac8f9a196acb6c0b486de06ade30218ac672e72edb4bada382",
+      "sha256": "fb16caab9b387d5100060b505fae93f6a6ec0254a51050939fbd4aaba347b199",
+      "bytes": 399924,
+      "duration": 33.2431746031746,
+      "sampleCount": 1466024,
+      "beforeLUFS": -8.85,
+      "afterLUFS": -18.46,
+      "truePeakDBTP": -4.51,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9998683259915703,
+        0.9998660824602437,
+        0.9999735470884245,
+        0.9999310130987344
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 16,
+      "originalUrl": "audio/alnufais/16.mp3",
+      "url": "audio/alnufais-balanced/16.mp3",
+      "previousSha256": "b67b8722cbe683ed7dab52e15ad9d08732dcb10370d9e3417729c6ff567c2699",
+      "sha256": "09f71e974e062132329d686bfa54dfe7bee4610952b17c901b57e4081bd95060",
+      "bytes": 278925,
+      "duration": 23.156961451247167,
+      "sampleCount": 1021222,
+      "beforeLUFS": -9.96,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.13,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9996432773062507,
+        0.9999712612804261,
+        0.9999395574800737,
+        0.9999402044090242
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 17,
+      "originalUrl": "audio/alnufais/17.mp3",
+      "url": "audio/alnufais-balanced/17.mp3",
+      "previousSha256": "5b8a461e72a7263eaa4928bfea4c28c97d7c1ad8fe65b2ce7bf09ccb2339afae",
+      "sha256": "3339e3cf4c3514142339ad5892ed4f2ef3b85b60eddaac0b032d32d297192cd5",
+      "bytes": 353844,
+      "duration": 29.409931972789117,
+      "sampleCount": 1296978,
+      "beforeLUFS": -10.52,
+      "afterLUFS": -18.43,
+      "truePeakDBTP": -4.28,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999054006264293,
+        0.9999100833627825,
+        0.9998627312961602,
+        0.9999529101405584
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 18,
+      "originalUrl": "audio/alnufais/18.mp3",
+      "url": "audio/alnufais-balanced/18.mp3",
+      "previousSha256": "7fab253e55c15dfdbee990946ca0fda898c1f18be421bc3067067a0512228cca",
+      "sha256": "464e8652e4df7e657d65def07e1ad28a715cd6829048eca9f0ab93cd7a1507d0",
+      "bytes": 505250,
+      "duration": 42.026167800453514,
+      "sampleCount": 1853354,
+      "beforeLUFS": -10.25,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.16,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999406568484291,
+        0.999913492082318,
+        0.9998981032354921,
+        0.9998340834571768
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 19,
+      "originalUrl": "audio/alnufais/19.mp3",
+      "url": "audio/alnufais-balanced/19.mp3",
+      "previousSha256": "394b482bac4dcf26574df650e304234474066fd45c7c3ce1da3aa71f7a935a7a",
+      "sha256": "aa9bed63c41f2429b52806a191faa30a292a3a6a994869541e11bb0fce7e81d2",
+      "bytes": 1137204,
+      "duration": 94.68301587301588,
+      "sampleCount": 4175521,
+      "beforeLUFS": -9.81,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.04,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999695742374078,
+        0.9998366927479633,
+        0.9999725871069604,
+        0.9999444025759577
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 20,
+      "originalUrl": "audio/alnufais/20.mp3",
+      "url": "audio/alnufais-balanced/20.mp3",
+      "previousSha256": "13e48b0459b6b2758b81cea8573cfd39552e78bc39a6ca8f6b1f849c7020a91a",
+      "sha256": "6f6de47c68c1bcfcecca2f9c489bab53cfd0185882ccc3dbed67f72b3f20b6c9",
+      "bytes": 370771,
+      "duration": 30.809977324263038,
+      "sampleCount": 1358720,
+      "beforeLUFS": -10.85,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.26,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999505382167605,
+        0.9999685602693691,
+        0.999874397693249,
+        0.9999523062273324
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 21,
+      "originalUrl": "audio/alnufais/21.mp3",
+      "url": "audio/alnufais-balanced/21.mp3",
+      "previousSha256": "1408c08c42b915fbc07481ae5f5a5872ef4dd9ae2a97ef0cebcead3d80d2e45b",
+      "sha256": "4635eea8c8109f29d648d93501fbbac02ab67298a4a8fba8d18795a06f82c144",
+      "bytes": 352590,
+      "duration": 29.30573696145125,
+      "sampleCount": 1292383,
+      "beforeLUFS": -9.66,
+      "afterLUFS": -18.48,
+      "truePeakDBTP": -4.2,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999091235150419,
+        0.9999751015016605,
+        0.9999090096957656,
+        0.9999834927271081
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 22,
+      "originalUrl": "audio/alnufais/22.mp3",
+      "url": "audio/alnufais-balanced/22.mp3",
+      "previousSha256": "a2587970eba292edcf8d64cf522684c834df82c8318a1393d05c259aa32eaad0",
+      "sha256": "3a351c823e989ecc26689ea47b4dca7ab463237039ce12bad8e2560dc5641381",
+      "bytes": 552270,
+      "duration": 45.9456462585034,
+      "sampleCount": 2026203,
+      "beforeLUFS": -8.83,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.36,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999643573283781,
+        0.9998948623711116,
+        0.9999107586096571,
+        0.9999313716467698
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 23,
+      "originalUrl": "audio/alnufais/23.mp3",
+      "url": "audio/alnufais-balanced/23.mp3",
+      "previousSha256": "a05f2f82ae6b5a71e41b096b5af024fab0d644d2ffa0681f506c4057c7afd25c",
+      "sha256": "d44b0ddafa4f6c518ca832ba557f6069380335f69c912d78fddbe2ced573dba3",
+      "bytes": 673269,
+      "duration": 56.01424036281179,
+      "sampleCount": 2470228,
+      "beforeLUFS": -8.96,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.41,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999661885983157,
+        0.9999415330672197,
+        0.9999278496456889,
+        0.9999698275707657
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 24,
+      "originalUrl": "audio/alnufais/24.mp3",
+      "url": "audio/alnufais-balanced/24.mp3",
+      "previousSha256": "c5aa6bea51dda69e0d54d05a1d40768b5798d81971491661348ad4fbb20a29d8",
+      "sha256": "646c118fdbb8fa8c55da13d0f007bf7a12ea6ca58123f2aaa1d12053f8b86c09",
+      "bytes": 1856616,
+      "duration": 154.6368934240363,
+      "sampleCount": 6819487,
+      "beforeLUFS": -10.53,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.22,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999750159732659,
+        0.9997339549820912,
+        0.9999601932048626,
+        0.9999635092386636
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 25,
+      "originalUrl": "audio/alnufais/25.mp3",
+      "url": "audio/alnufais-balanced/25.mp3",
+      "previousSha256": "d6081d2a5bc937796d6f04bca51f74e69e93a80ff4398d5a8b365b8f07e478a2",
+      "sha256": "49161073ee6d8824065852bfae73e6eeefdd8d4142738147a4b6774fdcbf4610",
+      "bytes": 954138,
+      "duration": 79.43512471655329,
+      "sampleCount": 3503089,
+      "beforeLUFS": -9.78,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.32,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999622912357464,
+        0.9996460891530198,
+        0.9999657408290381,
+        0.9999018478206432
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 26,
+      "originalUrl": "audio/alnufais/26.mp3",
+      "url": "audio/alnufais-balanced/26.mp3",
+      "previousSha256": "09c144bd233107ae2c623e1b7100636a6843f5809d9e764d91cf44d808f5377c",
+      "sha256": "795c5fe9ff99d6ea23798fa4a9b3e687a6f7eaea36f1cc8dc2df2aa81af85945",
+      "bytes": 556972,
+      "duration": 46.31616780045351,
+      "sampleCount": 2042543,
+      "beforeLUFS": -10.8,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.01,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999616863578127,
+        0.9999030498220306,
+        0.9999397140068614,
+        0.9999066240186248
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 27,
+      "originalUrl": "audio/alnufais/27.mp3",
+      "url": "audio/alnufais-balanced/27.mp3",
+      "previousSha256": "e6a39c995df88696e43017c725dbecec04c71004d3f030064690733b143c2003",
+      "sha256": "5238bf9951cc09191a8c1771cf2f6f8351d15f4765d83408d37e7d5157880466",
+      "bytes": 819033,
+      "duration": 68.17424036281179,
+      "sampleCount": 3006484,
+      "beforeLUFS": -9.5,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.07,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999367246206372,
+        0.9999538652137943,
+        0.9999337833835463,
+        0.9998817937076324
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 28,
+      "originalUrl": "audio/alnufais/28.mp3",
+      "url": "audio/alnufais-balanced/28.mp3",
+      "previousSha256": "48903507f6c93296f438dd846c5b8354304a406fd8ca606756b6784e1c18d623",
+      "sha256": "5cd4aef56181938d18c2231a50dff445a404e20933704826340febafc68af4bb",
+      "bytes": 753204,
+      "duration": 62.68750566893424,
+      "sampleCount": 2764519,
+      "beforeLUFS": -9.73,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.19,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999613258437152,
+        0.9999152627782188,
+        0.9999933402034226,
+        0.999967842504442
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 29,
+      "originalUrl": "audio/alnufais/29.mp3",
+      "url": "audio/alnufais-balanced/29.mp3",
+      "previousSha256": "aa810bbb0948a9d41bf2004876d7c1792281073080cccd0550e76fee8acdec5d",
+      "sha256": "4882b98822c482e33d7fd4532a859799d2772d4a7fb58915b75a24fcd5462eee",
+      "bytes": 1545968,
+      "duration": 128.7512925170068,
+      "sampleCount": 5677932,
+      "beforeLUFS": -8.94,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.23,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9998745206690083,
+        0.9999455508872268,
+        0.9999033338941664,
+        0.9999643418569159
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 30,
+      "originalUrl": "audio/alnufais/30.mp3",
+      "url": "audio/alnufais-balanced/30.mp3",
+      "previousSha256": "434b83d3a107d504ac3ae7c7951f68bec5690dbc41c629e4ed7772dc9322824a",
+      "sha256": "ac6a0c1e96b16ffdbfd19df9652511c07ed493e8744dbb5d0bf253b0fefc1343",
+      "bytes": 488009,
+      "duration": 40.57045351473923,
+      "sampleCount": 1789157,
+      "beforeLUFS": -9.42,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.64,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9997021024140952,
+        0.9998845358067904,
+        0.9998465929916809,
+        0.9999813455090887
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 31,
+      "originalUrl": "audio/alnufais/31.mp3",
+      "url": "audio/alnufais-balanced/31.mp3",
+      "previousSha256": "bba87b1da4bec70f9f6e3e51fc61cc1be6023680855244ac68dfaac951c1e6a5",
+      "sha256": "ac7a5a9a48a23f94035b8330ef54f8ec230cbc2b5ee3bd646d6d347f9a89f211",
+      "bytes": 553524,
+      "duration": 46.04151927437642,
+      "sampleCount": 2030431,
+      "beforeLUFS": -9.85,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.63,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999499444505274,
+        0.999979868337975,
+        0.9997999631627423,
+        0.9999267064185609
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 32,
+      "originalUrl": "audio/alnufais/32.mp3",
+      "url": "audio/alnufais-balanced/32.mp3",
+      "previousSha256": "4cdc9230ecd7f3e11a410c2482a480e802002e143266112416abc5528162a3b0",
+      "sha256": "fe6da76eddb8be34cc54710eaa426ef49639c0a07159d6e2e03641b81254951f",
+      "bytes": 568571,
+      "duration": 47.29,
+      "sampleCount": 2085489,
+      "beforeLUFS": -10.96,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.41,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999399702301622,
+        0.9999568007151964,
+        0.9999381161902932,
+        0.999977682344788
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 33,
+      "originalUrl": "audio/alnufais/33.mp3",
+      "url": "audio/alnufais-balanced/33.mp3",
+      "previousSha256": "18e676d91447eb048423042834ad31875101b5b7ecc1ba5bb7d1af4dcbbdc7b7",
+      "sha256": "ba47d7dc98dbf85c8f528f2fa72622198db7207ff55f9a510f5992fac42f34a8",
+      "bytes": 458229,
+      "duration": 38.10900226757369,
+      "sampleCount": 1680607,
+      "beforeLUFS": -10.66,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.29,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999063432805237,
+        0.9999492679553521,
+        0.9999508033107964,
+        0.9999434084429712
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 34,
+      "originalUrl": "audio/alnufais/34.mp3",
+      "url": "audio/alnufais-balanced/34.mp3",
+      "previousSha256": "8166d9bf184694c49c362f5bfa1722a4c95c528f8c071fbc36e3b5aa65e6cc85",
+      "sha256": "05834c18dc5c0c32b7bf96618125f804480696ac9cddb18a2d18ba32c6736738",
+      "bytes": 443183,
+      "duration": 36.84786848072562,
+      "sampleCount": 1624991,
+      "beforeLUFS": -9.62,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.99,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999208535199747,
+        0.9998427653227843,
+        0.9998895725001459,
+        0.9999686987282569
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 35,
+      "originalUrl": "audio/alnufais/35.mp3",
+      "url": "audio/alnufais-balanced/35.mp3",
+      "previousSha256": "ce82f19dae43455eddc97d56c7e67f1a343fe543f36802831bb1a29310ab749c",
+      "sha256": "134576d387b85bdbba57887c2d4f86e81b874be738c9adec1b96c257b68774b0",
+      "bytes": 800224,
+      "duration": 66.59839002267573,
+      "sampleCount": 2936989,
+      "beforeLUFS": -9.46,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.35,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999408830894071,
+        0.9999099664755836,
+        0.9999759816957097,
+        0.9999581738029342
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 36,
+      "originalUrl": "audio/alnufais/36.mp3",
+      "url": "audio/alnufais-balanced/36.mp3",
+      "previousSha256": "33d8cb2203dc3b2ec7aff7122dc432ae5ba522cdc094388f878ed78323836366",
+      "sha256": "c720ee03005ac953e978a69e5accfcd3deb0b096b1caf08cf64e2a8dddf2c897",
+      "bytes": 1135637,
+      "duration": 94.56231292517006,
+      "sampleCount": 4170198,
+      "beforeLUFS": -10.86,
+      "afterLUFS": -18.46,
+      "truePeakDBTP": -3.96,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999787718047276,
+        0.9999288482388934,
+        0.9999897582796218,
+        0.9998391240373418
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 37,
+      "originalUrl": "audio/alnufais/37.mp3",
+      "url": "audio/alnufais-balanced/37.mp3",
+      "previousSha256": "dfab67133eefaeccd038840eb2105013bb4361c6b2ce09b03f380edf999e9e83",
+      "sha256": "a7ce205d22f8d2035b87827540c1a27ab2b905af03c8f8205c996b25855ebdad",
+      "bytes": 969184,
+      "duration": 80.68308390022676,
+      "sampleCount": 3558124,
+      "beforeLUFS": -11.14,
+      "afterLUFS": -18.44,
+      "truePeakDBTP": -4.45,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999685526704281,
+        0.9998905651829616,
+        0.9998303782649328,
+        0.9999017304565644
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 38,
+      "originalUrl": "audio/alnufais/38.mp3",
+      "url": "audio/alnufais-balanced/38.mp3",
+      "previousSha256": "a794cc7f75643105f3d919916e7489328974a9041c4dea501c0a268a2973ad7e",
+      "sha256": "55c324607a00eedc7c5a111880608b8254885c358b5390a6f2613c77c38f16df",
+      "bytes": 798344,
+      "duration": 66.44167800453515,
+      "sampleCount": 2930078,
+      "beforeLUFS": -11.67,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -3.7,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.999724209796322,
+        0.9999219929803641,
+        0.9999250838056255,
+        0.9999960307299706
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 39,
+      "originalUrl": "audio/alnufais/39.mp3",
+      "url": "audio/alnufais-balanced/39.mp3",
+      "previousSha256": "682b3717ecf59ddb69e54384d8726737bf3f8c0785d362ad6e5151a619467bd5",
+      "sha256": "7980042ab459c7c680ea77954a9ef947071d28ee87abb7b40025ddc83705b39d",
+      "bytes": 417165,
+      "duration": 34.67795918367347,
+      "sampleCount": 1529298,
+      "beforeLUFS": -10.84,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.55,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999476779929705,
+        0.9999592631374157,
+        0.9999129162845175,
+        0.9999812678877038
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 40,
+      "originalUrl": "audio/alnufais/40.mp3",
+      "url": "audio/alnufais-balanced/40.mp3",
+      "previousSha256": "459af0dbd7d88963da0111808ecd1d9e6d99c08323bb45c5d41daeb2ac7e2f20",
+      "sha256": "54142ee6c2f9d923181a55503cec386df2b41fa76e51439e41bcb5f676e77cf8",
+      "bytes": 526252,
+      "duration": 43.7604081632653,
+      "sampleCount": 1929834,
+      "beforeLUFS": -9.72,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -4.09,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999433275690048,
+        0.999961881478643,
+        0.9999308882908844,
+        0.9999695858117403
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 41,
+      "originalUrl": "audio/alnufais/41.mp3",
+      "url": "audio/alnufais-balanced/41.mp3",
+      "previousSha256": "72dd4058e9f2be39331ba66fa58a6f52c18e63bf17587794ed54967976fb762c",
+      "sha256": "36d8b7e58b41a41643ff55bce2335e4929bc445245f19f1762768c0b790cd348",
+      "bytes": 366069,
+      "duration": 30.410680272108845,
+      "sampleCount": 1341111,
+      "beforeLUFS": -11.28,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -3.43,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.999889219661168,
+        0.9998771829972034,
+        0.9999206384320837,
+        0.9998797363992907
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alnufais",
+      "id": 42,
+      "originalUrl": "audio/alnufais/42.mp3",
+      "url": "audio/alnufais-balanced/42.mp3",
+      "previousSha256": "71af9525a908b4a758b72ce2e5efa86dff794ee16a75f7405e55805ee382f16a",
+      "sha256": "f2a8bc7ab52724e9369caf079914a47765528c97741430e45fdd4ee2d1b3db72",
+      "bytes": 851947,
+      "duration": 70.91571428571429,
+      "sampleCount": 3127383,
+      "beforeLUFS": -10.65,
+      "afterLUFS": -18.45,
+      "truePeakDBTP": -3.59,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999898724480034,
+        0.9999580282153562,
+        0.9999730779080087,
+        0.9999180512136635
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 1,
+      "originalUrl": "audio/alhusaini/01.mp3",
+      "url": "audio/alhusaini-balanced/01.mp3",
+      "previousSha256": "11ec9a39c33bab3813c787aeac9e2521338b0ad9e101f42873e03f2921991b7f",
+      "sha256": "692de5d5dd4018984d79ee6a41e2c2fe50f442beaf2dcf62d55dfa9120f6c58e",
+      "bytes": 671315,
+      "duration": 55.86,
+      "sampleCount": 2463426,
+      "beforeLUFS": -36.5,
+      "afterLUFS": -18.46,
+      "truePeakDBTP": -2.54,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.998289216070951,
+        0.9955240683723023,
+        0.9959387691961988,
+        0.989761350466118
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 2,
+      "originalUrl": "audio/alhusaini/02.mp3",
+      "url": "audio/alhusaini-balanced/02.mp3",
+      "previousSha256": "3a74e2118d96628c809a5f3918be149ca21a69eefa20eca5736ee54c43f601e7",
+      "sha256": "6065349ea49cedd73592701e133c98a7f32397978188860628ad4f3c20825dd4",
+      "bytes": 1614849,
+      "duration": 134.48,
+      "sampleCount": 5930568,
+      "beforeLUFS": -36.49,
+      "afterLUFS": -18.5,
+      "truePeakDBTP": -2.28,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9997267986800324,
+        0.9999957144829552,
+        0.9896625086316735
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 3,
+      "originalUrl": "audio/alhusaini/03.mp3",
+      "url": "audio/alhusaini-balanced/03.mp3",
+      "previousSha256": "7a36398c3cfb9bf887ee557a9c91b4433c8bd1ae2da940c640089bbb2efa83fd",
+      "sha256": "66f52252af1cb37a9da8aa829f0379ef16fc30bf9a88e20090510c3a275d9c01",
+      "bytes": 513949,
+      "duration": 42.74,
+      "sampleCount": 1884834,
+      "beforeLUFS": -37.1,
+      "afterLUFS": -18.53,
+      "truePeakDBTP": -1.86,
+      "alignmentLagSamples16k": [
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9850002258264543,
+        0.9964994023525507
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 4,
+      "originalUrl": "audio/alhusaini/04.mp3",
+      "url": "audio/alhusaini-balanced/04.mp3",
+      "previousSha256": "97c5aa0ec7260e294f9e19001fb0b7c20ae5c5728606017a5108693f64d4d693",
+      "sha256": "cf7c0ae87f6e66f73c176004fcca88d959a7c35012add7dad4c8c560336c9fa5",
+      "bytes": 1015199,
+      "duration": 84.52,
+      "sampleCount": 3727332,
+      "beforeLUFS": -37.1,
+      "afterLUFS": -18.51,
+      "truePeakDBTP": -2.68,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999678062059217,
+        0.9984371039224877,
+        0.9920425814573177
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 5,
+      "originalUrl": "audio/alhusaini/05.mp3",
+      "url": "audio/alhusaini-balanced/05.mp3",
+      "previousSha256": "73aed59cbf1098e1ac36576b4c92f4ef49898347efaf14ea3de18719f008deec",
+      "sha256": "d4a19cd221c025b42b0622d738fde1bf312d3301117866694598f41b4c96da2c",
+      "bytes": 407679,
+      "duration": 33.9,
+      "sampleCount": 1494990,
+      "beforeLUFS": -37.02,
+      "afterLUFS": -18.5,
+      "truePeakDBTP": -2.31,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9931584196299489,
+        0.9992185077639156,
+        0.9968254875663731
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 6,
+      "originalUrl": "audio/alhusaini/06.mp3",
+      "url": "audio/alhusaini-balanced/06.mp3",
+      "previousSha256": "b070812dd31a6b1d727dd1133b0097232aeb6ce8134fea1cb182edeaf5f47304",
+      "sha256": "759073328b9e8ffc48f90bd51a8e40f34f84b8e330f11a5aafb38a25eecfe37e",
+      "bytes": 816135,
+      "duration": 67.94,
+      "sampleCount": 2996154,
+      "beforeLUFS": -36.83,
+      "afterLUFS": -18.54,
+      "truePeakDBTP": -2.94,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9997542725811935,
+        0.9988786236330043,
+        0.9897106348391905
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 7,
+      "originalUrl": "audio/alhusaini/07.mp3",
+      "url": "audio/alhusaini-balanced/07.mp3",
+      "previousSha256": "1f23c30ee4136723f73ba1d8720f0584dfd68d39117a2f78a0fda168abeed94a",
+      "sha256": "b5f33bbd26642cd5a588e5abe6771edb6aa483d5b21ac323f38b3f4205f6aa77",
+      "bytes": 372574,
+      "duration": 30.96,
+      "sampleCount": 1365336,
+      "beforeLUFS": -37.02,
+      "afterLUFS": -18.53,
+      "truePeakDBTP": -2.67,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9996412218415474,
+        0.9861467970163951,
+        0.9977458783374005
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 8,
+      "originalUrl": "audio/alhusaini/08.mp3",
+      "url": "audio/alhusaini-balanced/08.mp3",
+      "previousSha256": "63a1a1d7022049237ae2981e04e1f41e4acc4386e8d53b65d56c650ffb696ab8",
+      "sha256": "71f5f880fc0242c7d3c5b663429c2ee921c817415df9c804000a91b5b180f62d",
+      "bytes": 491384,
+      "duration": 40.88,
+      "sampleCount": 1802808,
+      "beforeLUFS": -36.45,
+      "afterLUFS": -18.52,
+      "truePeakDBTP": -3.13,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9958155964423778,
+        0.9974671892155681,
+        0.9985119938782467,
+        0.9988559875315822
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 9,
+      "originalUrl": "audio/alhusaini/09.mp3",
+      "url": "audio/alhusaini-balanced/09.mp3",
+      "previousSha256": "ad0fbe58c275327bed357b68ddefcddc257976181c9cad0c741bd229c04e0faf",
+      "sha256": "6df18b2438f1b253970cc2fdc5021eb88fc4f2cf8165e0392d0e13705efbabb1",
+      "bytes": 427130,
+      "duration": 35.52,
+      "sampleCount": 1566432,
+      "beforeLUFS": -36.82,
+      "afterLUFS": -18.52,
+      "truePeakDBTP": -2.41,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9945790812476453,
+        0.9996163273278271,
+        0.9935633331116737,
+        0.9925686722173598
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 10,
+      "originalUrl": "audio/alhusaini/10.mp3",
+      "url": "audio/alhusaini-balanced/10.mp3",
+      "previousSha256": "b05549201d3ee9c124afcfd322308d36e3f82d3a2564fd637bb108765a0bbaa9",
+      "sha256": "18bbe2db5e07256fab092adaca8320325a70a380448f9e47573743c20c54ba8d",
+      "bytes": 851249,
+      "duration": 70.86,
+      "sampleCount": 3124926,
+      "beforeLUFS": -36.93,
+      "afterLUFS": -18.52,
+      "truePeakDBTP": -2.68,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9945126955476055,
+        0.9771475540557895,
+        0.9948222726046257
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 11,
+      "originalUrl": "audio/alhusaini/11.mp3",
+      "url": "audio/alhusaini-balanced/11.mp3",
+      "previousSha256": "19c896b29f6be0de50d183d4677eae9d72743eae0ca62fe860378f6e0c4bb83b",
+      "sha256": "e98d864fdb2424a9294675368d14b8d08f7301549df01bb10237abdd4b235f0b",
+      "bytes": 399214,
+      "duration": 33.2,
+      "sampleCount": 1464120,
+      "beforeLUFS": -36.37,
+      "afterLUFS": -18.59,
+      "truePeakDBTP": -2.34,
+      "alignmentLagSamples16k": [
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9995958786974842,
+        0.9983847188772326
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 12,
+      "originalUrl": "audio/alhusaini/12.mp3",
+      "url": "audio/alhusaini-balanced/12.mp3",
+      "previousSha256": "1228d6503212c68d733aef884b56292af38a4296661cf62c7b76b3b43fdafd18",
+      "sha256": "cb6f93d70ff99e5455fb0dc541f663f7d165144293b4aa4f45336c591a1a43d2",
+      "bytes": 258158,
+      "duration": 21.44,
+      "sampleCount": 945504,
+      "beforeLUFS": -36.94,
+      "afterLUFS": -18.51,
+      "truePeakDBTP": -2.83,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9928340581591648,
+        0.9945396301651775,
+        0.9977161124018417,
+        0.9954298636090064
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 13,
+      "originalUrl": "audio/alhusaini/13.mp3",
+      "url": "audio/alhusaini-balanced/13.mp3",
+      "previousSha256": "2466a6dbb50ee1eea6cc79f4daa937d2cfc1d5c08b999a966495904415009745",
+      "sha256": "ddc18672f0f50369a11b1f65b53b47701416b87027dd9ac80d31a0e7c6e19d0e",
+      "bytes": 295783,
+      "duration": 24.56,
+      "sampleCount": 1083096,
+      "beforeLUFS": -36.48,
+      "afterLUFS": -18.48,
+      "truePeakDBTP": -2.3,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9926910442128021,
+        0.9910300464852254,
+        0.9983553209917712,
+        0.9999567602475101
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 14,
+      "originalUrl": "audio/alhusaini/14.mp3",
+      "url": "audio/alhusaini-balanced/14.mp3",
+      "previousSha256": "4d06b30bf64a355cc087f11abeb1486c0dfea2684c0df74549415f461288d3fc",
+      "sha256": "a4ec84f3eea4d8c8d8d68fcb9e0530cd41566d6b9663170718d1786286e0880f",
+      "bytes": 350632,
+      "duration": 29.14,
+      "sampleCount": 1285074,
+      "beforeLUFS": -36.29,
+      "afterLUFS": -18.52,
+      "truePeakDBTP": -2.3,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.999607709874057,
+        0.999865926253882,
+        0.9976894546247421
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 15,
+      "originalUrl": "audio/alhusaini/15.mp3",
+      "url": "audio/alhusaini-balanced/15.mp3",
+      "previousSha256": "b88d5aa3fff00835d16cdb74b1f1d0325c296cacc4af7f18a41a946c4d2ab125",
+      "sha256": "d1d61546c5ee836fb28011ba60cdbdae8236844f7d62302368e97516677b7ce0",
+      "bytes": 400795,
+      "duration": 33.32,
+      "sampleCount": 1469412,
+      "beforeLUFS": -37.46,
+      "afterLUFS": -18.48,
+      "truePeakDBTP": -2.39,
+      "alignmentLagSamples16k": [
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9976811415427994,
+        0.9903757063164802
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 16,
+      "originalUrl": "audio/alhusaini/16.mp3",
+      "url": "audio/alhusaini-balanced/16.mp3",
+      "previousSha256": "2fc14d36ed4ba871c34a321390a92ffa04624b53793013908e2a439342488390",
+      "sha256": "a7341cd3aed2307392cdfee7e12f61f0ff75ad16a0e57f9b2486c40f132568c8",
+      "bytes": 289806,
+      "duration": 24.06,
+      "sampleCount": 1061046,
+      "beforeLUFS": -37.01,
+      "afterLUFS": -18.5,
+      "truePeakDBTP": -2.27,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9997770061246404,
+        0.9992853119458729,
+        0.9886783720051833
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 17,
+      "originalUrl": "audio/alhusaini/17.mp3",
+      "url": "audio/alhusaini-balanced/17.mp3",
+      "previousSha256": "044d871e578c1214389a90d05790ba0777345eacb6d5226b55ac851208aa5d80",
+      "sha256": "24f1f53c2f67a39c7a8806a3b165187d1e11d5a23703cc768911071c5f38fd84",
+      "bytes": 396404,
+      "duration": 32.96,
+      "sampleCount": 1453536,
+      "beforeLUFS": -36.14,
+      "afterLUFS": -18.51,
+      "truePeakDBTP": -2.07,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9992634829849463,
+        0.9892623299275541,
+        0.9965510470556789
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 18,
+      "originalUrl": "audio/alhusaini/18.mp3",
+      "url": "audio/alhusaini-balanced/18.mp3",
+      "previousSha256": "9e543c722bb5337f9d91dda7eee01701dc35b8ab31c5f33672939047b11933db",
+      "sha256": "df84a00fcf58e44d93ddbc593a61eedc5c9c6d2b481b6a7ad86a308ef7dde117",
+      "bytes": 412705,
+      "duration": 34.3,
+      "sampleCount": 1512630,
+      "beforeLUFS": -36.63,
+      "afterLUFS": -18.54,
+      "truePeakDBTP": -3.26,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9878432183570757,
+        0.9984250827099561,
+        0.9986310557105801,
+        0.9944606985648964
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 19,
+      "originalUrl": "audio/alhusaini/19.mp3",
+      "url": "audio/alhusaini-balanced/19.mp3",
+      "previousSha256": "fd4b651e69254cdfbafc9b5cdd81d6d6c0bb4c7726ee7467a0c9b045676cd42f",
+      "sha256": "517e224037d3dddcbcf1b0d94bbba11d4d78b844b1298666d128c3a90a786def",
+      "bytes": 1056567,
+      "duration": 87.98,
+      "sampleCount": 3879918,
+      "beforeLUFS": -36.48,
+      "afterLUFS": -18.53,
+      "truePeakDBTP": -2.9,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9967451927712486,
+        0.9943677894269316,
+        0.9997023387744494
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 20,
+      "originalUrl": "audio/alhusaini/20.mp3",
+      "url": "audio/alhusaini-balanced/20.mp3",
+      "previousSha256": "d73d897d7140db08a906c63f4e8ca4eef457fdb809e522c923a5d3103fdecdc6",
+      "sha256": "aff4b6a62d513ee30e47b0210d7d24b088204b144797c79e829a181fa551e3d5",
+      "bytes": 291686,
+      "duration": 24.24,
+      "sampleCount": 1068984,
+      "beforeLUFS": -36.54,
+      "afterLUFS": -18.51,
+      "truePeakDBTP": -2.57,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9924186571558611,
+        0.9969159686959159,
+        0.9992777701410903,
+        0.99578828441373
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 21,
+      "originalUrl": "audio/alhusaini/21.mp3",
+      "url": "audio/alhusaini-balanced/21.mp3",
+      "previousSha256": "75fc4cfe38be285e35baade0be9fe40867ed01decdffd071c92ba99d749652a4",
+      "sha256": "b6cb107f9fccc7faa9daba22a90b4931d6e73b1ab6f8f40e3136fa0718f35cb1",
+      "bytes": 324623,
+      "duration": 26.98,
+      "sampleCount": 1189818,
+      "beforeLUFS": -36.76,
+      "afterLUFS": -18.52,
+      "truePeakDBTP": -1.08,
+      "alignmentLagSamples16k": [
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9790643394741794
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 22,
+      "originalUrl": "audio/alhusaini/22.mp3",
+      "url": "audio/alhusaini-balanced/22.mp3",
+      "previousSha256": "9feacfe1b4e88069e051ee3347566408ef7852523adc5c96feeade8c186bfce6",
+      "sha256": "438f651827177e0a85d39a53078acc2e711bf3a618e8ba0a29d49843d44ae93c",
+      "bytes": 583227,
+      "duration": 48.52,
+      "sampleCount": 2139732,
+      "beforeLUFS": -36.77,
+      "afterLUFS": -18.5,
+      "truePeakDBTP": -1.36,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9991094030444412,
+        0.9996772595946691,
+        0.9999640632760781,
+        0.9855382372457651
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 23,
+      "originalUrl": "audio/alhusaini/23.mp3",
+      "url": "audio/alhusaini-balanced/23.mp3",
+      "previousSha256": "d53cb25f579cabe278ec5e2adddde892c0bbf0056139365382a63e1010a16528",
+      "sha256": "4502b93b7e646d90b26a590e3f2b4d95ed88201fc507ea52895b4da3043f93c3",
+      "bytes": 589804,
+      "duration": 49.06,
+      "sampleCount": 2163546,
+      "beforeLUFS": -36.23,
+      "afterLUFS": -18.53,
+      "truePeakDBTP": -1.85,
+      "alignmentLagSamples16k": [
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.999725430730404,
+        0.997826156985808
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 24,
+      "originalUrl": "audio/alhusaini/24.mp3",
+      "url": "audio/alhusaini-balanced/24.mp3",
+      "previousSha256": "caf198c61b1dc7f663a99858827fbc798568f621ae6da9cda27b31401f304f55",
+      "sha256": "8d053bc18d4643850afcb34f4fdddf6e0f2769b26219b9d78edc6feef171f327",
+      "bytes": 1542751,
+      "duration": 128.48,
+      "sampleCount": 5665968,
+      "beforeLUFS": -36.48,
+      "afterLUFS": -18.5,
+      "truePeakDBTP": -0.45,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9988517712016262,
+        0.9584147316000744,
+        0.9879304091325236,
+        0.9997102577491175
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 25,
+      "originalUrl": "audio/alhusaini/25.mp3",
+      "url": "audio/alhusaini-balanced/25.mp3",
+      "previousSha256": "4420ec11be95d974ae675b284aa4ebd9a07b0a7346cdf2d4df63c0e7edeeb865",
+      "sha256": "bce9a2ff13c397116b9759c75e405aaa9a858494e6b67211ac82c2aad54743ca",
+      "bytes": 969731,
+      "duration": 80.72,
+      "sampleCount": 3559752,
+      "beforeLUFS": -36.94,
+      "afterLUFS": -18.52,
+      "truePeakDBTP": -1.81,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9925704037612638,
+        0.9957686892944777,
+        0.9954966561933328
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 26,
+      "originalUrl": "audio/alhusaini/26.mp3",
+      "url": "audio/alhusaini-balanced/26.mp3",
+      "previousSha256": "6187aed70986fe9fb972e68dcb63233612de811f3252b451aa9c55ed87fb6a4f",
+      "sha256": "87ac32fdf27c44aac93ccae10bd80ddf09c6c2258efc266eace17ebaf3361c46",
+      "bytes": 509881,
+      "duration": 42.4,
+      "sampleCount": 1869840,
+      "beforeLUFS": -36.68,
+      "afterLUFS": -18.52,
+      "truePeakDBTP": -2.15,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9908312052727425,
+        0.9990007906846504,
+        0.9983678801802758,
+        0.9987615336489819
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 27,
+      "originalUrl": "audio/alhusaini/27.mp3",
+      "url": "audio/alhusaini-balanced/27.mp3",
+      "previousSha256": "61519235d3de1bf7c35f06b7f7cf10d507e31e2a10d9144e51059eda41e09bba",
+      "sha256": "c7fad8dce54deb742e41d74fa060034c10ec63e6496b5bd3540ec3c8b9a43b9e",
+      "bytes": 780394,
+      "duration": 64.96,
+      "sampleCount": 2864736,
+      "beforeLUFS": -36.29,
+      "afterLUFS": -18.54,
+      "truePeakDBTP": -2.0,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9995736754692394,
+        0.9986971721759996,
+        0.9993074934666649
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 28,
+      "originalUrl": "audio/alhusaini/28.mp3",
+      "url": "audio/alhusaini-balanced/28.mp3",
+      "previousSha256": "be576d9c65808bda2e0f1ccc02dc6283478f36a236203acd8091b13c84ac0e59",
+      "sha256": "0dfb7ab804a7a4f0dada0206bc1a0bdd0ff61f25bd9fc7d3f4e5e99f4961699c",
+      "bytes": 740581,
+      "duration": 61.64,
+      "sampleCount": 2718324,
+      "beforeLUFS": -36.5,
+      "afterLUFS": -18.49,
+      "truePeakDBTP": -2.0,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9965429684182779,
+        0.997591350620272,
+        0.9993417684586804
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 29,
+      "originalUrl": "audio/alhusaini/29.mp3",
+      "url": "audio/alhusaini-balanced/29.mp3",
+      "previousSha256": "5718561bc0c83506e3e410db0c9ea16f5052b5e8b0b9017e240f51eba42d9790",
+      "sha256": "ddbd31a7739925842bb22dfaa909553d805f6d67e6571abe21831ffb56d7fe14",
+      "bytes": 1260002,
+      "duration": 104.92,
+      "sampleCount": 4626972,
+      "beforeLUFS": -36.53,
+      "afterLUFS": -18.52,
+      "truePeakDBTP": -2.57,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999966312721689,
+        0.9985171868724522,
+        0.9927711087649619,
+        0.9935704462179636
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 30,
+      "originalUrl": "audio/alhusaini/30.mp3",
+      "url": "audio/alhusaini-balanced/30.mp3",
+      "previousSha256": "37e0526bfadaae1ce63dc40949ddab1905a255fdaa469d1c908b832b780d5dc5",
+      "sha256": "343aaf29de5d5caa05912b918a36b5a87a0e1b54eb7727e3c2e2ee5a4df2a094",
+      "bytes": 439962,
+      "duration": 36.58,
+      "sampleCount": 1613178,
+      "beforeLUFS": -36.24,
+      "afterLUFS": -18.53,
+      "truePeakDBTP": -2.76,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.999705528885737,
+        0.9977737439273445,
+        0.9926354867142665
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 31,
+      "originalUrl": "audio/alhusaini/31.mp3",
+      "url": "audio/alhusaini-balanced/31.mp3",
+      "previousSha256": "e86d274b215cb08ccf02dc3667ee982311a53c84923e35bb6dd9a1f580e08787",
+      "sha256": "00971bee590d0fefa031f45e2b44c3427e00452240a3e39cf95df44d7fb39f43",
+      "bytes": 460017,
+      "duration": 38.26,
+      "sampleCount": 1687266,
+      "beforeLUFS": -37.92,
+      "afterLUFS": -18.49,
+      "truePeakDBTP": -3.18,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9999051717077525,
+        0.9996756096515748,
+        0.9996257108383251
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 32,
+      "originalUrl": "audio/alhusaini/32.mp3",
+      "url": "audio/alhusaini-balanced/32.mp3",
+      "previousSha256": "0418ca5833a8c0738991f6ea0b40a055638f9d5327d03272960cadd76edc3d56",
+      "sha256": "a298df79dde77050c2a103647becc3cc42a0a77d57efbebc93b814c35c7097e2",
+      "bytes": 465990,
+      "duration": 38.76,
+      "sampleCount": 1709316,
+      "beforeLUFS": -37.54,
+      "afterLUFS": -18.49,
+      "truePeakDBTP": -2.72,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9998481287602149,
+        0.9994261371051127,
+        0.9998094817713482,
+        0.9995231382357107
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 33,
+      "originalUrl": "audio/alhusaini/33.mp3",
+      "url": "audio/alhusaini-balanced/33.mp3",
+      "previousSha256": "a8d0538d6ae0a4f2f0d69e1ed27d56d92c6c1e6b068af565944873d6a3046e79",
+      "sha256": "21291c6f0c0e6ce344aca234a5c18ed1777499542a1b504c816e1dac3e4a04be",
+      "bytes": 394833,
+      "duration": 32.82,
+      "sampleCount": 1447362,
+      "beforeLUFS": -38.1,
+      "afterLUFS": -18.48,
+      "truePeakDBTP": -3.56,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9987785563853457,
+        0.9986767752155797,
+        0.9996103900589202
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 34,
+      "originalUrl": "audio/alhusaini/34.mp3",
+      "url": "audio/alhusaini-balanced/34.mp3",
+      "previousSha256": "3ff9fc3df88c461b32f75e45c009226b47039d6ee73e677b4ec5a486cb7b1ff9",
+      "sha256": "21b68d010bc2c691c4688f6b435fc05d60ab51db6392425f30f1aca3082b2854",
+      "bytes": 323984,
+      "duration": 26.92,
+      "sampleCount": 1187172,
+      "beforeLUFS": -38.02,
+      "afterLUFS": -18.54,
+      "truePeakDBTP": -2.9,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9990328855563408,
+        0.9985829084341846,
+        0.9976759988519496
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 35,
+      "originalUrl": "audio/alhusaini/35.mp3",
+      "url": "audio/alhusaini-balanced/35.mp3",
+      "previousSha256": "b84b60b278abc7ec18ec1e2f15596dfdd7ea846eda416976f6b843743c100cbd",
+      "sha256": "bd59a25ffd28617eb0cbbafca680b7f7043c507be6ed2c20d2807be1af30cddb",
+      "bytes": 610495,
+      "duration": 50.8,
+      "sampleCount": 2240280,
+      "beforeLUFS": -37.27,
+      "afterLUFS": -18.48,
+      "truePeakDBTP": -4.18,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9988746532042366,
+        0.9999449418601457,
+        0.9994229965016936,
+        0.9999702047970404
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 36,
+      "originalUrl": "audio/alhusaini/36.mp3",
+      "url": "audio/alhusaini-balanced/36.mp3",
+      "previousSha256": "610cc4943c273210159cafb2f1d8559c5191db958e5db3d12bcfaa171213abd9",
+      "sha256": "67bb47b1938ae4ab4dfe7814afc7f68082c9f3d17bc141fd90c09e2c677bc0a1",
+      "bytes": 879448,
+      "duration": 73.22,
+      "sampleCount": 3229002,
+      "beforeLUFS": -36.41,
+      "afterLUFS": -18.53,
+      "truePeakDBTP": -1.33,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9982849359420986,
+        0.9998585745659128,
+        0.9979192476206514
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 37,
+      "originalUrl": "audio/alhusaini/37.mp3",
+      "url": "audio/alhusaini-balanced/37.mp3",
+      "previousSha256": "31c5177156ecd27bcf8acc7556a2f146bed61f56d497b3240d7058f79535d577",
+      "sha256": "34321dc5fec901a8087ff5fc755c1456239856a639c6808758ab816f8a27e834",
+      "bytes": 1212678,
+      "duration": 100.98,
+      "sampleCount": 4453218,
+      "beforeLUFS": -36.63,
+      "afterLUFS": -18.52,
+      "truePeakDBTP": -0.82,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9882475174382634,
+        0.9978867503239326,
+        0.999989084861683,
+        0.9973849506614276
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 38,
+      "originalUrl": "audio/alhusaini/38.mp3",
+      "url": "audio/alhusaini-balanced/38.mp3",
+      "previousSha256": "1b925469d4df41869f9c66b1bd560185dd3c7957f62c5b8d59cb3b56d81fc3ed",
+      "sha256": "10c8a873ef4b4833f448158ce38fae132264d6e6a8b35914cfe2232520399aa9",
+      "bytes": 635882,
+      "duration": 52.92,
+      "sampleCount": 2333772,
+      "beforeLUFS": -36.66,
+      "afterLUFS": -18.53,
+      "truePeakDBTP": -1.87,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9978280186990957,
+        0.9977227346769398,
+        0.995461198307961,
+        0.9988246170983242
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 39,
+      "originalUrl": "audio/alhusaini/39.mp3",
+      "url": "audio/alhusaini-balanced/39.mp3",
+      "previousSha256": "347e6e07186629d0a9841d751bb29a9397c86494e1c2a9319be1366e168ab39f",
+      "sha256": "3fe9690e770a789b0c8d18e39a6e9ab2b861080330908d8b66d5ecdb3f6aeb4c",
+      "bytes": 274777,
+      "duration": 22.82,
+      "sampleCount": 1006362,
+      "beforeLUFS": -36.68,
+      "afterLUFS": -18.75,
+      "truePeakDBTP": -1.8,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9998636545098306,
+        0.9974256232478135,
+        0.9997517115617061
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 40,
+      "originalUrl": "audio/alhusaini/40.mp3",
+      "url": "audio/alhusaini-balanced/40.mp3",
+      "previousSha256": "bc953fa4ae0f7fe83f061defe74e98d19bd4254f4389f929e0f3e1f329525eea",
+      "sha256": "72a6094e2c12c83c12513af1ee3ee3084a7ba285ffc9eb1aa4c4fb049520727e",
+      "bytes": 463809,
+      "duration": 38.56,
+      "sampleCount": 1700496,
+      "beforeLUFS": -36.36,
+      "afterLUFS": -18.5,
+      "truePeakDBTP": -1.31,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9863508456034303,
+        0.9963727188605844,
+        0.9965290842296478
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 41,
+      "originalUrl": "audio/alhusaini/41.mp3",
+      "url": "audio/alhusaini-balanced/41.mp3",
+      "previousSha256": "6fb3cffe3d3e41b696d194e8c5412684caac4f16fea68e16f1ed459de9171680",
+      "sha256": "b2e9df1004d071b637ced9522f426a898d53e86e18a6d8e746d38a5d28794a65",
+      "bytes": 318359,
+      "duration": 26.46,
+      "sampleCount": 1166886,
+      "beforeLUFS": -36.6,
+      "afterLUFS": -18.51,
+      "truePeakDBTP": -3.17,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9779009213111014,
+        0.9882814249402231,
+        0.9969815856511796,
+        0.993629686633512
+      ],
+      "fullyDecoded": true
+    },
+    {
+      "reader": "alhusaini",
+      "id": 42,
+      "originalUrl": "audio/alhusaini/42.mp3",
+      "url": "audio/alhusaini-balanced/42.mp3",
+      "previousSha256": "1110cfbe56670e3e6f847aef5869a298f787baa286c233b707a25d5d870308ac",
+      "sha256": "e390658548787f94560fbf812f5636c73c2de78640798ab5b65aaab977fe9b77",
+      "bytes": 568802,
+      "duration": 47.32,
+      "sampleCount": 2086812,
+      "beforeLUFS": -36.88,
+      "afterLUFS": -18.53,
+      "truePeakDBTP": -1.69,
+      "alignmentLagSamples16k": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alignmentCorrelations": [
+        0.9973941014407771,
+        0.9983105930246433,
+        0.9977762931414047,
+        0.9998504872033728
+      ],
+      "fullyDecoded": true
+    }
+  ]
+}

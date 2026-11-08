@@ -8,8 +8,6 @@ Al-Arba'in is a responsive web application for reading and studying Imam an-Nawa
 
 This is a Software Engineering course project. The code is plain JavaScript organised as classes and ES Modules, with a small server for the assistant.
 
-**Live demo:** https://arbaeen-oop.ibrahimalkorbi.chatgpt.site
-
 ## Features
 
 - **Read**: browse all 42 hadith, search by number, Arabic title, wording or topic, and resume where you stopped. Two facing pages on wide screens, one page on narrow screens.
